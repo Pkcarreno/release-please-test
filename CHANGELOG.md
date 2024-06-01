@@ -1,0 +1,15 @@
+# Changelog
+
+## 1.0.0 (2024-06-01)
+
+
+### Features
+
+* add release-type ([1f3b620](https://github.com/Pkcarreno/release-please-test/commit/1f3b620f0fed88d68203fa26ca3ea1516389857c))
+* first commit ([8a1f902](https://github.com/Pkcarreno/release-please-test/commit/8a1f9026f3b429e7eeab8acc83da605b1cd1d2d9))
+
+
+### Bug Fixes
+
+* actions ([55b6896](https://github.com/Pkcarreno/release-please-test/commit/55b68969e70801a60384f73b6fa72b70d5b17989))
+* release-please ([b6531fa](https://github.com/Pkcarreno/release-please-test/commit/b6531fa83362a09c303365cc033bdd6dd74f35d0))
