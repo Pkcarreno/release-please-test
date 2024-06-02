@@ -24,10 +24,12 @@ jobs:
         id: release
         with:
           release-type: node
+    outputs:
+      release-created: ${{ steps.release.outputs.release_created }}
 
   build-and-deploy:
     runs-on: ubuntu-latest
-    if: ${{ steps.release.outputs.release_created }}
+    if: ${{ needs.release-please.outputs.release-created }}
     steps:
       - name: build and deploy
         uses: ./.github/workflows/build-and-deploy.yml
