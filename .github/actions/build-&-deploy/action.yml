@@ -2,6 +2,9 @@ name: 'Build and Deploy'
 description: 'Build app and deploy to GitHub Pages'
 runs:
   using: 'composite'
+  env:
+    name: github-pages
+    url: ${{ steps.deployment.outputs.page_url }}
   steps:
     - name: 📦 Setup Node + PNPM + install deps
       uses: ./.github/actions/setup-node-pnpm-install
