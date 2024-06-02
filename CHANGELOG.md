@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/Pkcarreno/release-please-test/compare/v1.0.10...v1.0.11) (2024-06-02)
+
+
+### Bug Fixes
+
+* attempt 11 ([6026b95](https://github.com/Pkcarreno/release-please-test/commit/6026b95019916dbd89e68c115725d5e84af0b630))
+
 ## [1.0.10](https://github.com/Pkcarreno/release-please-test/compare/v1.0.9...v1.0.10) (2024-06-02)
 
 
