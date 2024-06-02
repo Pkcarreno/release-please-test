@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10](https://github.com/Pkcarreno/release-please-test/compare/v1.0.9...v1.0.10) (2024-06-02)
+
+
+### Bug Fixes
+
+* attempt 10 ([76ec047](https://github.com/Pkcarreno/release-please-test/commit/76ec04773eb03b3785b3bc1d2a41a5ca07c67328))
+* remove unused file ([ca8df7e](https://github.com/Pkcarreno/release-please-test/commit/ca8df7e5c513592d6b7a59d96db9bb216c98ad71))
+
 ## [1.0.9](https://github.com/Pkcarreno/release-please-test/compare/v1.0.8...v1.0.9) (2024-06-02)
 
 
