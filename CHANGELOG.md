@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Pkcarreno/release-please-test/compare/v1.1.0...v1.2.0) (2024-06-02)
+
+
+### Features
+
+* test env var ([2469374](https://github.com/Pkcarreno/release-please-test/commit/246937481c7a7d7e4059c52ebd83c69cad1ae568))
+
 ## [1.1.0](https://github.com/Pkcarreno/release-please-test/compare/v1.0.19...v1.1.0) (2024-06-02)
 
 
