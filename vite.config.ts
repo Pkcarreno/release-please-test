@@ -17,7 +17,7 @@ export default defineConfig(({ command }) => {
   }
 
   if (command !== 'serve') {
-    config.base = '/release-please-test /'
+    config.base = '/release-please-test/'
   }
 
   return config
