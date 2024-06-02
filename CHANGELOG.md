@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.9](https://github.com/Pkcarreno/release-please-test/compare/v1.0.8...v1.0.9) (2024-06-02)
+
+
+### Bug Fixes
+
+* add env ([0bf7fb8](https://github.com/Pkcarreno/release-please-test/commit/0bf7fb873fe7c3461b409b256f6c93a6f1371fbf))
+* attempt 9 ([53eab5b](https://github.com/Pkcarreno/release-please-test/commit/53eab5bf877adbb1e4db1c0b33882086312abc56))
+
 ## [1.0.8](https://github.com/Pkcarreno/release-please-test/compare/v1.0.7...v1.0.8) (2024-06-02)
 
 
