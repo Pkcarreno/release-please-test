@@ -11,7 +11,7 @@ name: 'release and deploy'
 
 jobs:
   prepare:
-    uses: ./.github/workflows/lint-and-typecheck.yml
+    uses: ./.github/workflows/precheck.yml
 
   release:
     runs-on: ubuntu-latest
