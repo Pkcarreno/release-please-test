@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/Pkcarreno/release-please-test/compare/v1.0.19...v1.1.0) (2024-06-02)
+
+
+### Features
+
+* add lint and typecheck ([e78e6ea](https://github.com/Pkcarreno/release-please-test/commit/e78e6ea6f5ce435265669251eba33c59646aee30))
+
+
+### Bug Fixes
+
+* minor fix ([9ef2e8a](https://github.com/Pkcarreno/release-please-test/commit/9ef2e8a57275cabf73f53538960b671850818213))
+* workflow file name ([3368e54](https://github.com/Pkcarreno/release-please-test/commit/3368e542ee077805d92a77959742ba42c5abab22))
+* yaml error ([fe27abf](https://github.com/Pkcarreno/release-please-test/commit/fe27abf41fb1da23793f5f05cc01f1308f412bf7))
+
 ## [1.0.19](https://github.com/Pkcarreno/release-please-test/compare/v1.0.18...v1.0.19) (2024-06-02)
 
 
