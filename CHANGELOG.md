@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.5](https://github.com/Pkcarreno/release-please-test/compare/v1.0.4...v1.0.5) (2024-06-02)
+
+
+### Bug Fixes
+
+* attempt 5 ([fed90ee](https://github.com/Pkcarreno/release-please-test/commit/fed90ee935f5b6723a76429c0a6420591c0289a4))
+* path ([ec43ece](https://github.com/Pkcarreno/release-please-test/commit/ec43ece500fc319162f9aad566a6b774aa234986))
+* path resolution ([4a7e406](https://github.com/Pkcarreno/release-please-test/commit/4a7e4065f85f7d2869623b50eb70b77f3a0a07cf))
+
 ## [1.0.4](https://github.com/Pkcarreno/release-please-test/compare/v1.0.3...v1.0.4) (2024-06-02)
 
 
