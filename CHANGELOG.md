@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.18](https://github.com/Pkcarreno/release-please-test/compare/v1.0.17...v1.0.18) (2024-06-02)
+
+
+### Bug Fixes
+
+* fix artifacts ([fd68121](https://github.com/Pkcarreno/release-please-test/commit/fd68121af812435964c91556a30d889ce254a4a5))
+
 ## [1.0.17](https://github.com/Pkcarreno/release-please-test/compare/v1.0.16...v1.0.17) (2024-06-02)
 
 
