@@ -22,5 +22,5 @@ jobs:
           release-type: node
 
       - name: build and deploy
-        uses: ./.github/workflows/build-and-deploy.yml
+        uses: ./.github/workflows/build-and-deploy
         if: ${{ steps.release.outputs.release_created }}
