@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.16](https://github.com/Pkcarreno/release-please-test/compare/v1.0.15...v1.0.16) (2024-06-02)
+
+
+### Bug Fixes
+
+* attempt 19 ([356630b](https://github.com/Pkcarreno/release-please-test/commit/356630b6cb694c6c726c978ef06b9bcc2682624a))
+* close variable ([da2b791](https://github.com/Pkcarreno/release-please-test/commit/da2b791a02018fd4f1d491680bf4a2f19ced3e57))
+* close variable ([d6c7968](https://github.com/Pkcarreno/release-please-test/commit/d6c796823a43b9928a43ca41ffa5edb7229b6300))
+
 ## [1.0.15](https://github.com/Pkcarreno/release-please-test/compare/v1.0.14...v1.0.15) (2024-06-02)
 
 
