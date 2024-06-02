@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/Pkcarreno/release-please-test/compare/v1.0.3...v1.0.4) (2024-06-02)
+
+
+### Bug Fixes
+
+* add pnpm to package manager ([4b827bf](https://github.com/Pkcarreno/release-please-test/commit/4b827bf8e133410e69a23d161a18b5f5c4e8a661))
+* attempt 4 ([72d5c41](https://github.com/Pkcarreno/release-please-test/commit/72d5c417e6bdb0383157c997088eadd72c00079e))
+
 ## [1.0.3](https://github.com/Pkcarreno/release-please-test/compare/v1.0.2...v1.0.3) (2024-06-01)
 
 
