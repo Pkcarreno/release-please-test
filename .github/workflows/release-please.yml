@@ -26,6 +26,7 @@ jobs:
           release-type: node
 
   build-and-deploy:
+    runs-on: ubuntu-latest
     if: ${{ steps.release.outputs.release_created }}
     steps:
       - name: build and deploy
