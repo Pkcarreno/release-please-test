@@ -6,7 +6,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  id-token: write
 
 name: release-please
 
@@ -14,14 +13,11 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
       - uses: googleapis/release-please-action@v4
         id: release
         with:
           release-type: node
 
       - name: build and deploy
-        uses: ./.github/actions/build-&-deploy
+        uses: ./.github/workflows/build-and-deploy.yml
         if: ${{ steps.release.outputs.release_created }}
