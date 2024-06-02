@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/Pkcarreno/release-please-test/compare/v1.0.6...v1.0.7) (2024-06-02)
+
+
+### Bug Fixes
+
+* attempt 7 ([b6b8552](https://github.com/Pkcarreno/release-please-test/commit/b6b8552091fa93727167a70c8e5ac4a776baa714))
+
 ## [1.0.6](https://github.com/Pkcarreno/release-please-test/compare/v1.0.5...v1.0.6) (2024-06-02)
 
 
