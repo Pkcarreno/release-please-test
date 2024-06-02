@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.17](https://github.com/Pkcarreno/release-please-test/compare/v1.0.16...v1.0.17) (2024-06-02)
+
+
+### Bug Fixes
+
+* permissions ([54b65b1](https://github.com/Pkcarreno/release-please-test/commit/54b65b1c52d6bcb4df6108f2c2ff7d5d4d371a1e))
+
 ## [1.0.16](https://github.com/Pkcarreno/release-please-test/compare/v1.0.15...v1.0.16) (2024-06-02)
 
 
