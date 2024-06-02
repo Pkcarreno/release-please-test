@@ -1,19 +1,15 @@
 # Taken from obytes' react native template: https://github.com/obytes/react-native-template-obytes
 
-name: Lint TS (eslint, prettier) & Type Check (tsc)
+name: Precheck
 
 on:
   pull_request:
     branches: [main]
   workflow_call:
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
-
 jobs:
   install:
-    name: Setup Node + PNPM + install deps + Cache
+    name: Prepare enviroment + Cache
     runs-on: ubuntu-latest
     steps:
       - name: 📦 Checkout project repo
