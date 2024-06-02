@@ -23,6 +23,7 @@ function App() {
               This is a boilerplate build with Vite, React 18, TypeScript,
               Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
             </p>
+            <p className="mt-4 text-xl text-gray-500">Base URL is {BASE_URL}</p>
           </div>
           <div>
             <div className="my-10">
