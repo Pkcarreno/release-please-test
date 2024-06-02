@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.19](https://github.com/Pkcarreno/release-please-test/compare/v1.0.18...v1.0.19) (2024-06-02)
+
+
+### Bug Fixes
+
+* update actions versions ([35701d4](https://github.com/Pkcarreno/release-please-test/commit/35701d4262ebdf7c3412f0616182087f2fb67a1d))
+
 ## [1.0.18](https://github.com/Pkcarreno/release-please-test/compare/v1.0.17...v1.0.18) (2024-06-02)
 
 
